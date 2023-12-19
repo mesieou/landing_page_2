@@ -1,0 +1,19 @@
+.footer {
+  text-align: center;
+  padding:60px;
+  margin: 64px 0px;
+  height: 120px;
+}
+
+.icons {
+  display: block;
+}
+
+.icons a img {
+  color: #26AA4C;
+  margin-right: 8px;
+}
+
+.text-gray {
+  text-align: center;
+}
